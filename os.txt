@@ -1,0 +1,43 @@
+So finally you made your mind to start machine learning , no worried I have got you covered,As a novice in machine learning (ML), you may be faced with numerous questions, including: Should I really put in the effort to learn about this technology? If that's the case, how can I get started? Are there any dangers? Will this information help me find work? This essay will attempt to address some of these concerns.
+
+To begin, you should absolutely research machine learning. It's the future: intelligent robots will anticipate your environment, explain key insights, automate some chores (like as driving a car), and help you make the best decisions. Even if you are a software professional, you will need to expand your skill set since machine learning will create expert systems, decreasing the necessity for conventional software development.
+
+It may appear difficult to begin. Should you take a course? No, not always. The majority of the courses are geared to turn you into a data scientist, which may not be what you want to do with your career. You may want to utilise ML as a casual practitioner rather than an expert.
+
+The next step would be to study up on how ML can help you achieve your goals, acquire restricted training data (the variables you believe are essential) to train the ML, and sign up for an ML platform that takes you through the process of developing predictive models. Some people prefer open source ML platforms, however this comes at a cost: presumed programming skills in languages like Python, which may dissuade you from doing ML.
+
+Types of Machine Learning?
+
+1. Supervised 
+2. Unsupervised
+3. Reinforcement Learning
+
+
+
+How to Start Machine learning? 
+
+So, in order to get started with machine learning, you'll need to learn Python. But why Python? Python is one of the easiest languages to learn in my experience. The process must be iterated rapidly, and the data scientist does not require a profound understanding of the language because they can pick it up quickly.
+Once you are familiar with the how python works , you should look for these python libraraies:
+
+Numpy
+The famous numerical analysis library. It will help you do many things, from computing the median of data distribution, to processing multidimensional arrays.
+
+2. Pandas
+
+For processing CSV files. Of course, you will need to process some tables, and see statistics, and this is the right tool you want to use.
+
+3. Matplotlib
+
+After you have the data stored in Pandas data frames, you might need some visualizations to understand more about the data. Images are still better than thousands of words.
+
+4. Seaborn
+
+This is also another visualization tool, but more focused on statistical visualization. Things like histograms, or pie charts, or curves, or maybe correlation tables.
+
+5. Scikit-Learn
+
+This is the final boss of Machine Learning with Python. THE SO-CALLED Machine Learning with Python is this guy. Scikit-Learn. All of the things you need from algorithms to improvements are here.
+
+6. Tensorflow and Pytorch
+
+I don’t talk too much about these two. But if you are interested in Deep Learning, take a look at them, it will be worth your time. (I will give another tutorial about Deep Learning next time, stay tuned!)

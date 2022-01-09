@@ -1,0 +1,64 @@
+So, you made here? Fear of being pirated? Here is all about cyber security you need to know
+
+Assume you are working on your computer while a hacker gains access to your company's secret data in the background. He takes critical information and sells it to thieves, putting your organisation in jeopardy.
+
+It seems like something out of a movie, but it's unfortunately all too prevalent in today's internet world. This is why cyber security has become such an important element of every corporate strategy—and why cyber security professionals are in higher demand than ever.
+
+This introduction to Cyber Security will teach you how it works, why it is necessary, what Cyber Security professionals do to protect data, and how to become one.
+
+
+What is Cyber Security?
+
+Cyber security is a procedure that safeguards networks and devices against external attacks. Businesses often hire Cyber Security specialists to safeguard sensitive information, maintain staff productivity, and boost customer trust in products and services.
+
+The industry standard of confidentiality, integrity, and availability, or CIA, governs the realm of cyber security. Privacy implies that data may only be viewed by allowed parties; integrity implies that information can only be added, updated, or withdrawn by authorised users; and availability implies that systems, services, and data must be accessible on-demand within agreed-upon boundaries.
+
+
+The use of authentication mechanisms is a critical component of Cyber Security. A user name, for example, identifies an account that a user wishes to access, whereas a password serves as proof that the user is who he claims to be.
+
+Types of Cyber crimes
+
+Cyber crime is Any unauthorised activity involving a computer, device, or network . Computer-assisted crimes, crimes in which the computer is a target, and crimes in which the computer is incidental to the crime rather than directly related to it are the three types.
+
+Cybercriminals usually try to profit off of their crimes using a variety of tactics, including:
+
+Denial of Service, or DOS
+When a hacker consumes all of a server's resources, legitimate users are unable to access it.
+
+Malware 
+When people are infected with a worm or virus that renders their equipment inoperable.
+
+Man in the Middle 
+When a hacker places himself between a victim's computer and a router in order to sniff data packets.
+
+Phishing 
+When a hacker sends a supposedly legitimate-looking email requesting personal information from users.
+
+
+Cross-site script attacks, password attacks, eavesdrop attacks (which could be physical as well) and SQL injections, birthday attacks based on algorithm functions are also included for cyber attacks.
+
+
+One of the latest: Pegasus
+
+The NSO Group develops, markets, and authorises Pegasus as a hacking software (or spyware) to governments around the world. The malware is capable of infecting thousands of phones that run iOS or Android. It allows spyware operators to extract messages, images and emails, to record calls and to activate microphones discreetly.
+
+
+
+Tips to protect yourself against cyberattacks
+
+ How can companies and people protect themselves from cyber threats? Our top advice on cyber security are as follows:
+
+1. Updating your operating and software:This ensures that the latest security fixes are available to you.
+
+2. The use of anti virus software will detect and eradicate threats by security solutions such as the Kaspersky Total Security programme. Keep the best degree of protection up to date with your software.
+
+3. Make sure your passwords are not easily guessed by strong passwords.
+
+4. Do not open unknown senders' email attachments: virus could infiltrate them.
+
+5. Do not click on links on strange e-mails or unknown websites: malware is often distributed.
+
+6. Avoid using unsecure WiFi networks in public places:Unsecure networks leave you vulnerable to man-in-the-middle attacks.
+
+
+

@@ -1,0 +1,39 @@
+Hey! Let's do some open source work, shall we?
+
+Open source is like free food; nevertheless, depending on the projects you're working on, contributing to open source might be frightening and difficult. Even if you're a complete novice when it comes to coding, there are plenty of resources available.
+
+chances to get a foothold in it
+
+The term "open source" refers to source code that is freely available for anyone to use, change, and share. These programmes are often developed and maintained by a user community; examples of well-known open source projects include:
+
+Although valuable and accessible open source software is a primary focus of open source initiatives, individual contributors can gain much from contributing to them.
+You are contributing to maintaining your software while improving your technical abilities. You may show your work with open source software as evidence of your abilities when you are looking for jobs.
+You may become part of a community through collaboration in open-source applications, where you can practise soft skills like as communication, feedback and emotional intelligence, etc. Through these networks you will also be able to connect with many individuals who in turn open up valuable chances.
+Below are some techniques that you may utilise for open source breakdown. I'll use the Angular project to demonstrate how you can contribute to open source software for illustrative purposes (and partly because I've contributed). While most of the examples are from the Angular project, many of the mentioned methods apply to numerous open source projects.
+
+First of all, you have to select your preferred programming language. Once a programming language has been selected, look for an intriguing project.
+
+You may take following projects with you:
+1. Apache Cassandra
+2. TensorFlow
+3. Renovate
+4. Kubernetes
+5. Ansibl
+6. Geany
+7. Django
+
+If you wish to see more click here (https://opensource.google/projects/explore/featured)
+The next step is to find a bug
+
+It's pretty difficult, honestly, to discover an issue for a newcomer. I have been confronted with the same difficulties. But I will provide resources on how to discover easy problems and start contributing to a big company.
+Otherwise you may search for your GitHub repository and you will have a lot of problems that developers mention in the issue tab.
+
+You may select it yourself and you can try to solve it.
+
+Benefits of contributing to open source
+There are several compelling reasons to donate to open source projects:
+
+It improves your CV by showcasing your ability to work on code with others.
+It allows you to gain experience with Git and GitHub, which is a vital data science skill.
+It aids in the development of relationships within the open source community.
+It feels great to contribute to a project that you use!
